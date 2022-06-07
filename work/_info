@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/amich/OneDrive/Desktop/project/rvc_playground
+vtest
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1654612301
+!i10b 1
+!s100 EWkYb@2fSWNQi7mWlJS<z1
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhdZ2@P?CP3KA5CGJo2B?M0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1654612203
+8test.sv
+Ftest.sv
+!i122 1
+L0 1 7
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1654612301.000000
+!s107 test_tb.sv|test.sv|
+Z7 !s90 -f|test_list.f|
+!i113 1
+Z8 tCvgOpt 0
+vtest_tb
+R1
+R2
+!i10b 1
+!s100 _h5eQ8Z3j5CCMX=ok]`j]0
+R3
+Ig3ZSXQ_6ekK7;MjU5z^Cc1
+R4
+S1
+R0
+w1654612298
+8test_tb.sv
+Ftest_tb.sv
+!i122 1
+L0 1 20
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 test_tb.sv|test.sv|
+R7
+!i113 1
+R8
